@@ -71,13 +71,17 @@ d3.csv('../data/populationOverTime.csv', d => {
    .x(d => xScale(d.year))
    .y(d => yScale(d.population))
 
+
+  const groupedData = d3.groups(data, d => d.country)
+
  // DRAW LINE
  svg.selectAll(".line")
-   .data([data]) // data needs to take an []
+   .data(groupedData) // one array for every country
    .join("path")
    .attr("class", 'line')
    .attr("fill", "none")
    .attr("stroke", "black")
-   .attr("d", d => lineGen(d))
+   .attr("d", ([country, data]) => lineGen(data))
+   .attr("class", ([country, data]) => country)
 
 });
