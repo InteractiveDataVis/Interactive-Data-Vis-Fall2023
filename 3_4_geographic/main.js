@@ -16,11 +16,11 @@ let state = {
 * Using a Promise.all([]), we can load more than one dataset at a time
 * */
 Promise.all([
- d3.json("../data/usState.json")
+  d3.json("../data/usState.json")
 ]).then(([geojson]) => {
- state.geojson = geojson;
- // console.log("state: ", state);
- init();
+  state.geojson = geojson;
+  // console.log("state: ", state);
+  init();
 });
 
 /**
@@ -29,7 +29,7 @@ Promise.all([
 * */
 function init() {
  
- draw(); // calls the draw function
+  draw(); // calls the draw function
 }
 
 /**

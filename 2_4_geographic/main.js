@@ -8,9 +8,9 @@
  * Using a Promise.all([]), we can load more than one dataset at a time
  * */
  Promise.all([
-  d3.json("../data/usState.json"),
-  d3.csv("../data/stateCapitals.csv", d3.autoType),
-]).then(([geojson, capitals]) => {
+  d3.json("../data/world.json"),
+  d3.csv("../data/MoMA_nationalities.csv", d3.autoType),
+]).then(([geojson, nationalities]) => {
   
   // SPECIFY PROJECTION
  

@@ -1,4 +1,4 @@
-# Tutorial 3
+# Section 3 | Tutorial 2 | Distributions
 
 The goals for this tutorial are:
 
@@ -16,7 +16,7 @@ As you're building, don't forget you can always reference the [class code branch
 
 ## Assignment:
 
-- [ ] Implement your own scatter plot with the same MoMA distributions dataset from the section 2 tutorial of this data. This means your dropdowns will have different values, which correspond to your data. You could do this by nationality, or gender. 
+- [ ] Implement your own scatter plot with the same MoMA distributions dataset from the section 2 tutorial of this data. This means your dropdowns should have values which correspond to filtering your data. You could do this by nationality, or gender. 
 
 - [ ] Implement a different transition than the one used in the demo (i.e., your dots should not move from left to center to right on transitions). Consider other visible properties that could change as an object is entering, exiting, etc. and what that change suggests about the state of that data point.
 

@@ -13,9 +13,12 @@ As you're building, don't forget you can always reference the [class code branch
 
 ## Assignment:
 
-- [ ] Implement your own bar chart with the same dataset you used in the section 2 version of this tutorial. 
+- [ ] Implement your own bar chart with the same MoMA dataset you used in the section 2 version of this tutorial. You can expand this to include all count of nationalities as well, or some other bar chart with the MoMA data. 
+
 - [ ] Add axes or labels to this chart, as we learned in other tutorials of the previous section.
+
 - [ ] Add a color scale to this chart, as we learned in other tutorials of the previous section.
+
 - [ ] Make intentional design decisions -- colors, sizes, axes, transitions, etc. should illustrate something interesting about or relevant to your data.
 
 **BONUS:**

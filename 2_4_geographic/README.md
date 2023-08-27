@@ -16,7 +16,7 @@ As you're building, don't forget you can always reference the [class code branch
 
 ## Assignment:
 
-- [ ] Implement your own version of the map, using the nationalities data (`MoMA_nationalities`) and the country geojson data (`world.json`) provided in the [data folder](../data/). 
+- [ ] Implement your own version of the map, using the nationalities data (`MoMA_nationalities.csv`) and the country geojson data (`world.json`) provided in the [data folder](../data/). 
 
 - [ ] Create a world map that highlights countries that have artists represented in the provided dataset. This means you'll have to do some data transformations and mapping to tie the nationality to its country (i.e. "Polish" --> "Poland"). You should do as much data mapping and manipulation as possible _before_ creating a data visualization. You may want to generate a new data file that would best help you tackle this task through another program (like excel or python). 
 
