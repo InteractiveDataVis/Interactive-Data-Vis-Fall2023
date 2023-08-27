@@ -13,7 +13,7 @@ let state = {
 };
 
 /* LOAD DATA */
-d3.csv('[PATH_TO_YOUR_DATA]', d3.autoType).then(raw_data => {
+d3.csv('../data/MoMA_topTenNationalities.csv', d3.autoType).then(raw_data => {
   console.log("data", raw_data);
   // save our data to application state
   state.data = raw_data;

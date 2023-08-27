@@ -17,9 +17,9 @@ As you're building, don't forget you can always reference the [class code branch
 
 - [ ] Implement your own version of the map, using the us state geojson data provided in the [data folder](../data/), or another geojson of your choice (feel free to pull in data of the world or of another country if you like).
 
-- [ ] Using your own lat/long dataset, add points to your map. This can be the same dataset you chose for the section 2 version of this tutorial, as long as its **not** the dataset leveraged in the section 2 **demo** ([`usHeatExtremes.csv`](../data/usHeatExtremes.csv))
+- [ ] Using your own lat/long dataset, add points or fills to your map. This can be the same MoMA data you leveraged for the section 2 version of this tutorial, as well as the data used in the section 2 demo ([`usHeatExtremes.csv`](../data/usHeatExtremes.csv))
 
-- [ ] Add mouseover behavior **to each point**, so its data updates state, and is displayed in our tooltip display.
+- [ ] Add mouseover behavior **to each point or polygon**, so its data updates state, and is displayed in our tooltip display.
 
 - [ ] Make intentional design decisions -- colors, sizes, axes, transitions, etc. should illustrate something interesting about or relevant to your data.
 
