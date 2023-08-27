@@ -4,8 +4,8 @@ const height = 500;
 
 /* LOAD DATA */
 d3.csv('../data/squirrelActivities.csv', d3.autoType)
-.then(data => {
-  console.log("data", data)
+  .then(data => {
+    console.log("data", data)
 
   /* SCALES */
   // xscale - categorical, activity

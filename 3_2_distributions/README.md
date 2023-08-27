@@ -1,4 +1,4 @@
-# Tutorial 3
+# Section 3 | Tutorial 2 | Distributions
 
 The goals for this tutorial are:
 
@@ -12,11 +12,11 @@ The goals for this tutorial are:
 You should already have a local copy of your repository from the [tutorial 1](../1_1_getting_started/README.md). Start by getting a [basic server](../1_1_getting_started/3_BASIC_SERVER.md) up and running. This should include all the changes you've made thus far.
 
 Once your local serve is up and reacting to code changes, you're ready to begin working on your tutorial assignment.
-As you're building, don't forget you can always reference the [class code branch](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/class/) or the [demo code branch](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2021/tree/demo/) for additional context.
+As you're building, don't forget you can always reference the [class code branch](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2023/tree/class/) or the [demo code branch](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Fall2023/tree/demo/) for additional context.
 
 ## Assignment:
 
-- [ ] Implement your own scatter plot with a *different dataset* than the one used in our demo. This means your dropdowns will have different values, which correspond to your data.
+- [ ] Implement your own scatter plot with the same MoMA distributions dataset from the section 2 tutorial of this data. This means your dropdowns should have values which correspond to filtering your data. You could do this by nationality, or gender. 
 
 - [ ] Implement a different transition than the one used in the demo (i.e., your dots should not move from left to center to right on transitions). Consider other visible properties that could change as an object is entering, exiting, etc. and what that change suggests about the state of that data point.
 
@@ -32,9 +32,9 @@ This means would entail:
 
 ## Deploy + Submit
 
-Once you've completed the assignment, use the Github workflow to deploy your work to **your fork** of the course repository. Post the following as a comment to the appropriate post on the [commons site](https://data73200fall2021.commons.gc.cuny.edu/):
-1. a link to your committed code repository (your link will look something like: `https://github.com/[YOUR_USERNAME]/Interactive-Data-Vis-Fall2021/[TUTORIAL_PATH]/`)
-2. a link to your deployed example (your link will look something like: `https://[YOUR_USERNAME].github.io/Interactive-Data-Vis-Fall2021/[TUTORIAL_PATH]/`)
+Once you've completed the assignment, use the Github workflow to deploy your work to **your fork** of the course repository. Post the following as a comment to the appropriate post on the [commons site](https://data73200Fall2023.commons.gc.cuny.edu/):
+1. a link to your committed code repository (your link will look something like: `https://github.com/[YOUR_USERNAME]/Interactive-Data-Vis-Fall2023/[TUTORIAL_PATH]/`)
+2. a link to your deployed example (your link will look something like: `https://[YOUR_USERNAME].github.io/Interactive-Data-Vis-Fall2023/[TUTORIAL_PATH]/`)
 
 
 
