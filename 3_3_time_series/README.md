@@ -16,9 +16,7 @@ As you're building, don't forget you can always reference the [class code branch
 ## Assignment:
 
 - [ ] Implement your own line chart _with a different dataset_ than the one used in our demo. It can be the same dataset that you leveraged in the time series tutorial of section 2.
-
 - [ ] Add dots (`<circle>`) at each data point on your line. These dots should have an enter and update transition, similar to how we implemented transitions in the previous tutorial ([section 3 tutorial 2](../3_2_distributions/README.md)).
-
 - [ ] Make intentional design decisions -- colors, sizes, axes, transitions, etc. should illustrate something interesting about or relevant to your data.
 
 **BONUS:**

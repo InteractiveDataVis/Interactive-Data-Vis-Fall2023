@@ -17,7 +17,7 @@ As you're building, don't forget you can always reference the [class code branch
 
 ## Assignment:
 
-- [ ] Implement your own scatter plot with the MoMA distributions dataset. Your dataset should visualize length and width.
+- [ ] Implement your own scatter plot with the MoMA distributions dataset. It is already referenced in your template. Your dataset should visualize length and width.
 - [ ] Size the dots by the artist lifespan. This requires creating a new scale. Carefully consider the domain and range of this new scale, and do your best to make the domain of the scale *dynamic* (i.e. would the scale still work if the data changed?). Make a design decision to handle the 0 values. 
 - [ ] Make intentional design decisions -- colors, sizes, axes, etc. should illustrate something interesting about or relevant to your data.
 
