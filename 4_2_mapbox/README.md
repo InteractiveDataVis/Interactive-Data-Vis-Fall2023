@@ -16,9 +16,7 @@ As you're building, don't forget you can always reference the [class code branch
 ## Assignment:
 
 - [ ] Implement your own version of the mapbox map with your own public tokens on your site. 
-
 - [ ] Add markers to the map. This can be leveraging the centroids of the countries of the MoMA dataset, the locations of the heat extremes, another dataset with coordinates, or a made up dataset. 
-
 - [ ] Make intentional design decisions -- play with the custom map styles available to you. 
 
 **BONUS:**
