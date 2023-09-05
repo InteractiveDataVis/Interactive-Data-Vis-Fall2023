@@ -18,3 +18,20 @@ h3 {
 p {
   font-size: 1em;
 }
+
+tr {
+  background-color: pink;
+}
+
+th {
+  color:forestgreen;
+}
+
+.teacher {
+  background-color: yellow;
+}
+
+#unique {
+  font-size: 90px;
+  font-weight: 900;
+}
