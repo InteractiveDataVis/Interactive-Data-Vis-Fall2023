@@ -35,3 +35,7 @@ th {
   font-size: 90px;
   font-weight: 900;
 }
+
+svg {
+  background-color: aliceblue;
+}
