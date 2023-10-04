@@ -1,5 +1,5 @@
 Nationality,Country,Count
-American,United States of America,1000
+American,United States of America,5181
 German,Germany,965
 British,Britain,860
 French,French,847
@@ -13,7 +13,7 @@ Canadian,Canada,189
 Brazilian,Brazil ,167
 Unknown,Unknown,161
 Spanish,Spain,157
-Argentine,Argentinian ,142
+Argentine,Argentina,142
 Mexican,Mexico,135
 Polish,Poland,131
 Swedish,Sweden,128
@@ -89,7 +89,7 @@ Tunisian,Tunisia,2
 Senegalese,Senegal,2
 Sudanese,Sudan,2
 Emirati,United Arab Emirates,2
-Kyrgyz,Kirgizstan,2
+Kyrgyz,Kyrgyzstan,2
 Singaporean,Singapore,2
 Thai,Thailand,2
 Costa Rican,Costa Rica,2
@@ -111,7 +111,7 @@ Persian,Persia,1
 Bahamian,The Bahamas,1
 Bangladeshi,Bangladesh,1
 Sahrawi,United Arab Emirates,1
-Burkinabeé,Burkina Faso,1
+Burkinabé,Burkina Faso,1
 Catalan,Spain,1
 Afghan,Afghanistan,1
 Tanzanian,Tanzania,1
