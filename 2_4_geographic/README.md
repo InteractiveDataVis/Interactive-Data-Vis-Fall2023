@@ -17,11 +17,13 @@ As you're building, don't forget you can always reference the [class code branch
 ## Assignment:
 
 - [ ] Implement your own version of the map, using the nationalities data (`MoMA_nationalities.csv`) and the country geojson data (`world.json`) provided in the [data folder](../data/). 
-- [ ] Create a world map that highlights countries that have artists represented in the provided dataset. This means you'll have to do some data transformations and mapping to tie the nationality to its country (i.e. "Polish" --> "Poland"). You should do as much data mapping and manipulation as possible _before_ working in the browser and loading your file. You likely want to generate a new data file that would best help you tackle this task through another program (like excel or python). 
+- [ ] Create a world map that highlights countries that have artists represented in the provided dataset. **You are simply required to ensure those countries have solid fill, you do not need to color based on data.** ~~This means you'll have to do some data transformations and mapping to tie the nationality to its country (i.e. "Polish" --> "Poland"). You should do as much data mapping and manipulation as possible _before_ working in the browser and loading your file. You likely want to generate a new data file that would best help you tackle this task through another program (like excel or python).~~ 
+  * **Originally, this assignment required some data transformations, but the latest data in this push includes the country name as it would correspond to the new geojson.**
 - [ ] Make intentional design decisions -- colors, sizes, labels, etc. should illustrate something interesting about or relevant to your data.
 
 **BONUS:**
 
+- [ ] Use a color scale to create a choropleth, using the counts of artists to correspond to color. 
 - [ ] Add another data element to your map, such as using color or radius to represent a value, [like this](https://observablehq.com/@d3/bubble-map) or [this](https://observablehq.com/@d3/non-contiguous-cartogram?collection=@d3/d3-geo).
 
 ## Deploy + Submit
