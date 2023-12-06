@@ -1,5 +1,10 @@
-import { canvas } from './canvas.js'
-import { chart } from './main.js'
+import { map } from './map.js'
+import { chart } from './chart.js'
 
-canvas();
+// let state = {};
+// function updateState (newState) {
+//   state = newState
+// }
+
+map();
 chart();
